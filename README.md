@@ -1,6 +1,6 @@
-# Calculatrice 📚
+# Calculator 📚
 
-[`Le PDF du projet`](https://drive.google.com/file/d/1wXApk7ZVoIf2TK1l8V7ZORRYNXOEPoyD/view)
+[`The PDF of the project`](https://drive.google.com/file/d/1wXApk7ZVoIf2TK1l8V7ZORRYNXOEPoyD/view)
 
-#### Cette calculatrice permet d'écrire des expressions mathématiques et de les évaluer.
-#### La calculatrice peut effectuer les opérations demandées avec une interface graphique.
+#### This calculator allows you to write mathematical expressions and evaluate them.
+#### The calculator can perform the requested operations with a graphical interface.
