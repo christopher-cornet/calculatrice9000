@@ -1,7 +1,6 @@
 # Calculator
 ![calculatrice](https://github.com/christopher-cornet/calculatrice9000/blob/main/calculatrice.ico)
 
-[`The PDF of the project`](https://drive.google.com/file/d/1wXApk7ZVoIf2TK1l8V7ZORRYNXOEPoyD/view)
+#### Cette calculatrice permet d'écrire des expressions mathématiques et réaliser des calculs, avec une interface graphique.
 
-#### This calculator allows you to write mathematical expressions and evaluate them.
-#### The calculator can perform the requested operations with a graphical interface.
+![image](https://user-images.githubusercontent.com/115154379/236404179-a024d22b-a6c2-4d2b-a067-e6b0293d433c.png)
